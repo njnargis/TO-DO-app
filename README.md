@@ -9,10 +9,10 @@ To run this application locally, follow these steps:
 4. Open terminal or Git bash then
 5. Install dependencies using npm:
  npm install
-6.Start the development server:
-npm start
-Browser will automatically appear for your app
-or
+6. Start the development server:
+   npm start
+   Browser will automatically appear for your app
+ or
 7. Open your browser and visit `http://localhost:3000` to view the app after installing dependencies.
 
 ## Usage
